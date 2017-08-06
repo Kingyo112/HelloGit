@@ -1,0 +1,13 @@
+C:\Users\KeigoIto\documents\visual studio 2013\Projects\AttendanceManagement\AttendanceMamagement.Logic\obj\Debug\AttendanceManagement.Logic.csprojResolveAssemblyReference.cache
+C:\Users\KeigoIto\documents\visual studio 2013\Projects\AttendanceManagement\AttendanceMamagement.Logic\bin\Debug\AttendanceMamagement.Logic.dll
+C:\Users\KeigoIto\documents\visual studio 2013\Projects\AttendanceManagement\AttendanceMamagement.Logic\bin\Debug\AttendanceMamagement.Logic.pdb
+C:\Users\KeigoIto\documents\visual studio 2013\Projects\AttendanceManagement\AttendanceMamagement.Logic\bin\Debug\AttendanceManagement.Data.dll
+C:\Users\KeigoIto\documents\visual studio 2013\Projects\AttendanceManagement\AttendanceMamagement.Logic\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\KeigoIto\documents\visual studio 2013\Projects\AttendanceManagement\AttendanceMamagement.Logic\bin\Debug\NPOI.dll
+C:\Users\KeigoIto\documents\visual studio 2013\Projects\AttendanceManagement\AttendanceMamagement.Logic\bin\Debug\NPOI.OOXML.dll
+C:\Users\KeigoIto\documents\visual studio 2013\Projects\AttendanceManagement\AttendanceMamagement.Logic\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\KeigoIto\documents\visual studio 2013\Projects\AttendanceManagement\AttendanceMamagement.Logic\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\KeigoIto\documents\visual studio 2013\Projects\AttendanceManagement\AttendanceMamagement.Logic\bin\Debug\AttendanceManagement.Data.pdb
+C:\Users\KeigoIto\documents\visual studio 2013\Projects\AttendanceManagement\AttendanceMamagement.Logic\bin\Debug\NPOI.xml
+C:\Users\KeigoIto\documents\visual studio 2013\Projects\AttendanceManagement\AttendanceMamagement.Logic\obj\Debug\AttendanceMamagement.Logic.dll
+C:\Users\KeigoIto\documents\visual studio 2013\Projects\AttendanceManagement\AttendanceMamagement.Logic\obj\Debug\AttendanceMamagement.Logic.pdb

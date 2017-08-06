@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AttendanceManagement.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ExcelPath_Getudo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\KeigoIto\Documents\Visual Studio 2013\Projects\AttendanceManagement\MasterGetudo.xlsx</Value>
+    </Setting>
+    <Setting Name="ExcelPath_Holiday" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\KeigoIto\Documents\Visual Studio 2013\Projects\AttendanceManagement\MasterHoliday.xlsx</Value>
+    </Setting>
+    <Setting Name="ExcelPath_Attendance" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\KeigoIto\Documents\Visual Studio 2013\Projects\AttendanceManagement\AttendanceData.xlsx</Value>
+    </Setting>
+    <Setting Name="ExcelPath_AttendanceSample" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\KeigoIto\Documents\Visual Studio 2013\Projects\AttendanceManagement\AttendanceData.xlsx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
