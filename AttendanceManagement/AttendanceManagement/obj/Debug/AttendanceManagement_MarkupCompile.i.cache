@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\GitHub\AttendanceManagement\AttendanceManagement\App.xaml
-2-100771021
+4-2070096753
 
-11-1404564767
+13-418352102
 21-1261665581
-MainWindow.xaml;StartWindow.xaml;
+DayWindow.xaml;MainWindow.xaml;StartWindow.xaml;TaskWindow.xaml;
 
-True
+False
 
