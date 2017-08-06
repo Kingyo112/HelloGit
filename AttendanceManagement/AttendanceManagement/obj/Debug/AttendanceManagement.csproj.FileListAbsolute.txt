@@ -29,3 +29,34 @@ C:\Users\KeigoIto\documents\visual studio 2013\Projects\AttendanceManagement\Att
 C:\Users\KeigoIto\documents\visual studio 2013\Projects\AttendanceManagement\AttendanceManagement\bin\Debug\AttendanceManagement.Data.pdb
 C:\Users\KeigoIto\documents\visual studio 2013\Projects\AttendanceManagement\AttendanceManagement\bin\Debug\AttendanceMamagement.Logic.dll
 C:\Users\KeigoIto\documents\visual studio 2013\Projects\AttendanceManagement\AttendanceManagement\bin\Debug\AttendanceMamagement.Logic.pdb
+C:\GitHub\AttendanceManagement\AttendanceManagement\bin\Debug\AttendanceManagement.exe.config
+C:\GitHub\AttendanceManagement\AttendanceManagement\obj\Debug\AttendanceManagement.exe
+C:\GitHub\AttendanceManagement\AttendanceManagement\obj\Debug\AttendanceManagement.pdb
+C:\GitHub\AttendanceManagement\AttendanceManagement\bin\Debug\AttendanceManagement.exe
+C:\GitHub\AttendanceManagement\AttendanceManagement\bin\Debug\AttendanceManagement.pdb
+C:\GitHub\AttendanceManagement\AttendanceManagement\bin\Debug\AttendanceMamagement.Logic.dll
+C:\GitHub\AttendanceManagement\AttendanceManagement\bin\Debug\AttendanceManagement.Data.dll
+C:\GitHub\AttendanceManagement\AttendanceManagement\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\GitHub\AttendanceManagement\AttendanceManagement\bin\Debug\MahApps.Metro.dll
+C:\GitHub\AttendanceManagement\AttendanceManagement\bin\Debug\NPOI.dll
+C:\GitHub\AttendanceManagement\AttendanceManagement\bin\Debug\NPOI.OOXML.dll
+C:\GitHub\AttendanceManagement\AttendanceManagement\bin\Debug\NPOI.OpenXml4Net.dll
+C:\GitHub\AttendanceManagement\AttendanceManagement\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\GitHub\AttendanceManagement\AttendanceManagement\bin\Debug\System.Windows.Interactivity.dll
+C:\GitHub\AttendanceManagement\AttendanceManagement\bin\Debug\AttendanceMamagement.Logic.pdb
+C:\GitHub\AttendanceManagement\AttendanceManagement\bin\Debug\AttendanceManagement.Data.pdb
+C:\GitHub\AttendanceManagement\AttendanceManagement\bin\Debug\MahApps.Metro.pdb
+C:\GitHub\AttendanceManagement\AttendanceManagement\bin\Debug\MahApps.Metro.xml
+C:\GitHub\AttendanceManagement\AttendanceManagement\bin\Debug\NPOI.xml
+C:\GitHub\AttendanceManagement\AttendanceManagement\obj\Debug\AttendanceManagement.csprojResolveAssemblyReference.cache
+C:\GitHub\AttendanceManagement\AttendanceManagement\obj\Debug\MainWindow.g.cs
+C:\GitHub\AttendanceManagement\AttendanceManagement\obj\Debug\StartWindow.g.cs
+C:\GitHub\AttendanceManagement\AttendanceManagement\obj\Debug\App.g.cs
+C:\GitHub\AttendanceManagement\AttendanceManagement\obj\Debug\AttendanceManagement_MarkupCompile.cache
+C:\GitHub\AttendanceManagement\AttendanceManagement\obj\Debug\AttendanceManagement_MarkupCompile.lref
+C:\GitHub\AttendanceManagement\AttendanceManagement\obj\Debug\App.baml
+C:\GitHub\AttendanceManagement\AttendanceManagement\obj\Debug\MainWindow.baml
+C:\GitHub\AttendanceManagement\AttendanceManagement\obj\Debug\StartWindow.baml
+C:\GitHub\AttendanceManagement\AttendanceManagement\obj\Debug\AttendanceManagement.g.resources
+C:\GitHub\AttendanceManagement\AttendanceManagement\obj\Debug\AttendanceManagement.Properties.Resources.resources
+C:\GitHub\AttendanceManagement\AttendanceManagement\obj\Debug\AttendanceManagement.csproj.GenerateResource.Cache

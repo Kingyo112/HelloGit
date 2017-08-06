@@ -64,6 +64,8 @@ namespace AttendanceManagement
             this.txtExcelPath_Holiday.Text = Properties.Settings.Default.ExcelPath_Holiday;
             this.txtExcelPath_Attendance.Text = Properties.Settings.Default.ExcelPath_Attendance;
             this.txtExcelPath_AttendanceSample.Text = Properties.Settings.Default.ExcelPath_AttendanceSample;
+
+            this.tilAttendance.Focus();
         }
 
         private void MetroWindow_Closed(object sender, EventArgs e)
